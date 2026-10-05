@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello, Gagit --versionme Store!";
+echo "Здравствуйте, магазин Game Store!";
